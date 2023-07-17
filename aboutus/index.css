@@ -1,12 +1,10 @@
 @media screen and (max-width: 576px) {
     .box{
-        margin-left: 80px;
+        margin-left: 40px;
         margin-right: 30px;
         margin-bottom: 60px;
     }
-    .box.p{
-        margin-right: 70px;
-    }
+   
 .p{
     padding-left: 40px;
     padding-right: 40px;
